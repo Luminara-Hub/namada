@@ -96,5 +96,12 @@
     "Team or Contributor Name": "EmberStake",
     "Discord UserName": "4rash",
     "GitHub Account": "EmberStake"
+  },
+   {
+    "Which Indexer": "namada-indexer",
+    "Indexer API URL": "https://namada-indexer.shield-crypto.com",
+    "Team or Contributor Name": "shield-crypto",
+    "Discord UserName": "scaniashieldcrypto",
+    "GitHub Account": ""
   }
 ]
