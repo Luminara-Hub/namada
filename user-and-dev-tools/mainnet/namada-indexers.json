@@ -43,6 +43,13 @@
   },
   {
     "Which Indexer": "namada-indexer",
+    "Indexer API URL": "https://namada-mainnet-indexer.mellifera.network/",
+    "Team or Contributor Name": "MELLIFERA",
+    "Discord UserName": "ruslan_mellifera",
+    "GitHub Account": "MELLIFERA-Labs"
+  },
+  {
+    "Which Indexer": "namada-indexer",
     "Indexer API URL": "https://namada-indexer.palamar.io",
     "Team or Contributor Name": "Palamar",
     "Discord UserName": "pa1amar",

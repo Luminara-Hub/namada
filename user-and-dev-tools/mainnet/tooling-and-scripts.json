@@ -27,6 +27,14 @@
     "Additional Note": "https://hackmd.io/@mandragora/namada-mainnet#Instructions-to-sync-a-node-via-state-sync-method"
   },
   {
+    "Tool Name": "Install node with CRUN utility",
+    "Short Description": "CRUN is a simple command line tool to spin up blockchain node. It is designed to be simple and easy to use.",
+    "Team or Contributor Name": "MELLIFERA",
+    "Discord UserName": "ruslan_mellifera",
+    "GitHub Account": "MELLIFERA-Labs",
+    "Additional Note": "https://services.mellifera.network/Mainnet/Namada/install"
+  },
+  {
     "Tool Name": "Valley of Namada (VoN)",
     "Short Description": "Valley of Namada is an Ubuntu CLI-based tool for managing Namada nodes, executing transactions, and handling wallet/key interactions. It simplifies node deployment, key management, and staking while operating locally to reduce hack risks. As an open-source script, it ensures security and transparency.",
     "Tool URL": "-",

@@ -21,6 +21,13 @@
     "GitHub Account": "https://github.com/McDaan"
   },
   {
+    "Snapshot Link": "https://services.mellifera.network/Mainnet/Namada/Snapshot_and_data",
+    "Update Frequency": "6h",
+    "Team or Contributor Name": "MELLIFERA",
+    "Discord UserName": "ruslan_mellifera",
+    "GitHub Account": "MELLIFERA-Labs"
+  },
+  {
     "Snapshot Link": "https://services.validatorvn.com/namada#snapshots-daily-at-2am-utc",
     "Update Frequency": "24h",
     "Team or Contributor Name": "ValidatorVN",
