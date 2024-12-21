@@ -23,3 +23,9 @@
 - **Discord UserName**: oneplus
 - **GitHub Account**: N/A
 
+---
+- **Indexer API URL**: https://namada-housefire-masp-indexer.denodes.xyz
+- **Team or Contributor Name**: deNodes
+- **Discord UserName**: bombermine
+- **GitHub Account**: denodesxyz
+

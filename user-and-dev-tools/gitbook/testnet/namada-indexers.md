@@ -27,3 +27,10 @@
 - **Discord UserName**: oneplus
 - **GitHub Account**: N/A
 
+---
+- **Which Indexer**: namada-indexer
+- **Indexer API URL**: https://namada-housefire-indexer.denodes.xyz
+- **Team or Contributor Name**: deNodes
+- **Discord UserName**: bombermine
+- **GitHub Account**: denodesxyz
+

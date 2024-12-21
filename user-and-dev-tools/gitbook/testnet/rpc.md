@@ -23,3 +23,9 @@
 - **Discord UserName**: Oneplus
 - **GitHub Account**: N/A
 
+---
+- **RPC Address**: https://namada-housefire-rpc.denodes.xyz
+- **Team or Contributor Name**: deNodes
+- **Discord UserName**: bombermine
+- **GitHub Account**: denodesxyz
+

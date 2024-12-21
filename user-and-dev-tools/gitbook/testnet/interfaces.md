@@ -23,3 +23,11 @@
 - **Discord UserName**: spork | knowable
 - **GitHub Account**: vknowable
 
+---
+- **Interface Name (Namadillo or Custom)**: Namadillo
+- **Interface URL**: https://namadillo-housefire.denodes.xyz
+- **Notes**: N/A
+- **Team or Contributor Name**: deNodes
+- **Discord UserName**: bombermine
+- **GitHub Account**: denodesxyz
+
